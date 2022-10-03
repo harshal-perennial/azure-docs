@@ -88,7 +88,7 @@ Before you start using the plug-in, you must configure it. Select the plug-in, s
 
 The following image shows the configuration screen in both Jira and Confluence:
 
-![Plug-in configuration screen](./media/ms-confluence-jira-plugin-adminguide/jira.png)
+![Plug-in configuration screen](./media/jiramicrosoft-tutorial/addon54.png)
 
 * **Metadata URL**: The URL to get federation metadata from Azure AD.
 
